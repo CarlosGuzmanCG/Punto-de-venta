@@ -327,10 +327,10 @@
     <Content Include="Content\Plugins\sweetalert2\sweetalert.min.js" />
     <Content Include="Content\Plugins\sweetalert2\sweetalert2.all.js" />
     <Content Include="Content\style\style.css" />
-    <Content Include="Content\style\style_login.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Scripts\app\registroEmpresa.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -348,7 +348,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="Content\Plugins\Validarcontraseñas\js\" />
     <Folder Include="Models\" />
-    <Folder Include="Scripts\app\" />
     <Folder Include="Scripts\js\" />
   </ItemGroup>
   <ItemGroup>
